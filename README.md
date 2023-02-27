@@ -41,8 +41,8 @@ These are some screenshots of the finished version.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-ecommerce-landing-page-using-tailwind-with-darklight-mode-Q_3SpzXbOw)
+- Live Site URL: [Live site URL here](https://ecommerce-landing-page8.netlify.app/)
 
 ## Dependencies
 - `framer-motion`
